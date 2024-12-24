@@ -5,7 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://qniverse.co.uk",
+    baseUrl: "http://216.10.245.166",
     failOnStatusCode: false,
     chromeWebSecurity: false,
     pageLoadTimeout: 25000,

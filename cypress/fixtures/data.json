@@ -1,0 +1,6 @@
+const newBook = {
+    "name": "Learn API testing in Cypress",
+    "bisbn": "bcd",
+    "aisle": "227",
+    "author": "John foe",
+  };
